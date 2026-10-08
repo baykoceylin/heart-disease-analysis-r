@@ -1,0 +1,3 @@
+heart_disease,n,mean_age,median_age,mean_chol,median_chol,mean_thalach,median_thalach,mean_oldpeak,exang_percentage
+No Disease,164,52.6,52,242.6,234.5,158.4,161,0.59,14
+Disease,139,56.6,58,251.5,249,139.3,142,1.57,54.7
